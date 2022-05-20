@@ -1,0 +1,6 @@
+FirstName,Flight No,Origin,Destination,Date,Time,Last Name,Sex,SeatNo,Class,DateOfBirth,DoBValidation,PersonValidation,LuggageValidation,NameValidation,BoardingPassValidation
+Avkash,UA-234,San Francisco,Chicago,20-Apr-22,10:00 AM PST,Chauhan,M,20A,E,1/1/1990,True,False,True,False,True
+James,UA-234,San Francisco,Chicago,20-Apr-22,10:00 AM PST,Jackson,M,25B,E,10/12/1956,True,False,False,True,True
+Libby,UA-234,San Francisco,Chicago,20-Apr-22,10:00 AM PST,Herold,F,3D,B,2/10/1996,True,False,False,True,True
+Gowri,DL-456,Los Angeles,Dallas,15-May-22,4:00 AM PST,Chandrashekhar,F,5A,A,5/6/1985,True,True,False,True,True
+Radha,UA-234,San Francisco,Chicago,20-Apr-22,10:00 AM PST,S Kumar,F,34B,E,3/5/1994,True,False,False,False,True
